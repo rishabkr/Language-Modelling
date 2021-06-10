@@ -1,4 +1,4 @@
-# Lannguage-Modelling
+# Language-Modelling
 A collection of different types of Language Modelling techniques, new models to be added soon.
 To run the statistical language model file, type: python StatisticalLanguageModel.py [smoothing type] [corpus_path]
 where smoothing type = k for kneser ney
@@ -12,3 +12,5 @@ It will require torchtext 0.6.0 to be installed and other ML libraries like torc
 
 
 The results and discussions are present in the Report_nlm.pdf file.
+
+If there is an error while loading the notebook please use <a href = "https://nbviewer.jupyter.org/"> to view it. 
