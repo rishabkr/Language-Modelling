@@ -13,4 +13,4 @@ It will require torchtext 0.6.0 to be installed and other ML libraries like torc
 
 The results and discussions are present in the Report_nlm.pdf file.
 
-If there is an error while loading the notebook please use <a href = "https://nbviewer.jupyter.org/"> to view it. 
+If there is an error while loading the notebook please use <a href = "https://nbviewer.jupyter.org/"> this link </a>to view it. 
